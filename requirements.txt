@@ -1,5 +1,5 @@
-cmake
-dlib
+cmake==3.28.3
+dlib==19.24.1
 face_recognition
 numpy==1.26.4
 Pillow==10.2.0
