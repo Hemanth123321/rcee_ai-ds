@@ -1,7 +1,7 @@
-cmake==3.28.3
-dlib==19.24.1
+cmake
+dlib
 face_recognition
-numpy==1.26.4
+numpy
 Pillow==10.2.0
-streamlit==1.32.0
+streamlit
 
